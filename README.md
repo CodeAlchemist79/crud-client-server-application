@@ -147,7 +147,28 @@ The application successfully demonstrates:
 * Layered architecture design
 
 ---
+## Overview
 
+This project is a simple client-server application...
+
+...
+
+## Application Screenshots
+
+### XAMPP Running
+![XAMPP Running](Xampp-running.jpeg)
+
+### Records Table
+![Records Table](records-table.jpeg)
+
+### Create Form
+![Create Form](Create-form.jpeg)
+
+### Edit User
+![Edit User](edit-user.jpeg)
+
+### Delete User
+![Delete User](delete-user.jpeg)
 ## Author
 
 Mahlon Kipkogei
@@ -156,3 +177,4 @@ Software Development Student
 
 A PHP and MySQL CRUD client-server application demonstrating Create, Read, Update, Delete, and Search operations using XAMPP localhost.
 Update README with project documentation
+Add application screenshots to README
