@@ -1,4 +1,4 @@
-# CRUD Client-Server Application
+# CRUD Client-Server Application using PHP and MySQL
 
 ## Overview
 
@@ -155,3 +155,4 @@ Mahlon Kipkogei
 Software Development Student
 
 A PHP and MySQL CRUD client-server application demonstrating Create, Read, Update, Delete, and Search operations using XAMPP localhost.
+Update README with project documentation
